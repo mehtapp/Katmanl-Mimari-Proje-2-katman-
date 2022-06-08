@@ -1,0 +1,18 @@
+C:\Users\STUDENT2\Desktop\Mehtap\2KatmanliProje\IkORM\obj\Debug\IkORM.csproj.AssemblyReference.cache
+C:\Users\STUDENT2\Desktop\Mehtap\2KatmanliProje\IkORM\obj\Debug\IkORM.csproj.CoreCompileInputs.cache
+C:\Users\STUDENT2\Desktop\Mehtap\2KatmanliProje\IkORM\bin\Debug\IkORM.dll
+C:\Users\STUDENT2\Desktop\Mehtap\2KatmanliProje\IkORM\bin\Debug\IkORM.pdb
+C:\Users\STUDENT2\Desktop\Mehtap\2KatmanliProje\IkORM\obj\Debug\IkORM.dll
+C:\Users\STUDENT2\Desktop\Mehtap\2KatmanliProje\IkORM\obj\Debug\IkORM.pdb
+C:\Users\STUDENT2\Desktop\KatmanliHepsi\2KatmanliProje\IkORM\bin\Debug\IkORM.dll
+C:\Users\STUDENT2\Desktop\KatmanliHepsi\2KatmanliProje\IkORM\bin\Debug\IkORM.pdb
+C:\Users\STUDENT2\Desktop\KatmanliHepsi\2KatmanliProje\IkORM\obj\Debug\IkORM.csproj.AssemblyReference.cache
+C:\Users\STUDENT2\Desktop\KatmanliHepsi\2KatmanliProje\IkORM\obj\Debug\IkORM.csproj.CoreCompileInputs.cache
+C:\Users\STUDENT2\Desktop\KatmanliHepsi\2KatmanliProje\IkORM\obj\Debug\IkORM.dll
+C:\Users\STUDENT2\Desktop\KatmanliHepsi\2KatmanliProje\IkORM\obj\Debug\IkORM.pdb
+C:\Users\STUDENT2\Desktop\Tamamla\Tamamla\N Katmanlı(2) Proje\2KatmanliProje\IkORM\bin\Debug\IkORM.dll
+C:\Users\STUDENT2\Desktop\Tamamla\Tamamla\N Katmanlı(2) Proje\2KatmanliProje\IkORM\bin\Debug\IkORM.pdb
+C:\Users\STUDENT2\Desktop\Tamamla\Tamamla\N Katmanlı(2) Proje\2KatmanliProje\IkORM\obj\Debug\IkORM.csproj.AssemblyReference.cache
+C:\Users\STUDENT2\Desktop\Tamamla\Tamamla\N Katmanlı(2) Proje\2KatmanliProje\IkORM\obj\Debug\IkORM.csproj.CoreCompileInputs.cache
+C:\Users\STUDENT2\Desktop\Tamamla\Tamamla\N Katmanlı(2) Proje\2KatmanliProje\IkORM\obj\Debug\IkORM.dll
+C:\Users\STUDENT2\Desktop\Tamamla\Tamamla\N Katmanlı(2) Proje\2KatmanliProje\IkORM\obj\Debug\IkORM.pdb

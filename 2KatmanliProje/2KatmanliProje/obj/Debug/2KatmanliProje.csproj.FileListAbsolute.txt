@@ -1,0 +1,83 @@
+C:\Users\STUDENT2\Desktop\Mehtap\2KatmanliProje\2KatmanliProje\bin\Debug\2KatmanliProje.exe.config
+C:\Users\STUDENT2\Desktop\Mehtap\2KatmanliProje\2KatmanliProje\bin\Debug\2KatmanliProje.exe
+C:\Users\STUDENT2\Desktop\Mehtap\2KatmanliProje\2KatmanliProje\bin\Debug\2KatmanliProje.pdb
+C:\Users\STUDENT2\Desktop\Mehtap\2KatmanliProje\2KatmanliProje\obj\Debug\2KatmanliProje.csproj.AssemblyReference.cache
+C:\Users\STUDENT2\Desktop\Mehtap\2KatmanliProje\2KatmanliProje\obj\Debug\2KatmanliProje.csproj.SuggestedBindingRedirects.cache
+C:\Users\STUDENT2\Desktop\Mehtap\2KatmanliProje\2KatmanliProje\obj\Debug\_2KatmanliProje.Properties.Resources.resources
+C:\Users\STUDENT2\Desktop\Mehtap\2KatmanliProje\2KatmanliProje\obj\Debug\2KatmanliProje.csproj.GenerateResource.cache
+C:\Users\STUDENT2\Desktop\Mehtap\2KatmanliProje\2KatmanliProje\obj\Debug\2KatmanliProje.csproj.CoreCompileInputs.cache
+C:\Users\STUDENT2\Desktop\Mehtap\2KatmanliProje\2KatmanliProje\obj\Debug\2KatmanliProje.exe
+C:\Users\STUDENT2\Desktop\Mehtap\2KatmanliProje\2KatmanliProje\obj\Debug\2KatmanliProje.pdb
+C:\Users\STUDENT2\Desktop\Mehtap\2KatmanliProje\2KatmanliProje\obj\Debug\_2KatmanliProje.Worker.resources
+C:\Users\STUDENT2\Desktop\Mehtap\2KatmanliProje\2KatmanliProje\bin\Debug\IkORM.dll
+C:\Users\STUDENT2\Desktop\Mehtap\2KatmanliProje\2KatmanliProje\bin\Debug\IkORM.pdb
+C:\Users\STUDENT2\Desktop\Mehtap\2KatmanliProje\2KatmanliProje\obj\Debug\2KatmanliProje.csproj.CopyComplete
+C:\Users\STUDENT2\Desktop\Mehtap\2KatmanliProje\2KatmanliProje\obj\Debug\_2KatmanliProje.Position.resources
+C:\Users\STUDENT2\Desktop\KatmanliHepsi\2KatmanliProje\2KatmanliProje\bin\Debug\2KatmanliProje.exe.config
+C:\Users\STUDENT2\Desktop\KatmanliHepsi\2KatmanliProje\2KatmanliProje\bin\Debug\2KatmanliProje.exe
+C:\Users\STUDENT2\Desktop\KatmanliHepsi\2KatmanliProje\2KatmanliProje\bin\Debug\2KatmanliProje.pdb
+C:\Users\STUDENT2\Desktop\KatmanliHepsi\2KatmanliProje\2KatmanliProje\bin\Debug\IkORM.dll
+C:\Users\STUDENT2\Desktop\KatmanliHepsi\2KatmanliProje\2KatmanliProje\bin\Debug\IkORM.pdb
+C:\Users\STUDENT2\Desktop\KatmanliHepsi\2KatmanliProje\2KatmanliProje\obj\Debug\2KatmanliProje.csproj.AssemblyReference.cache
+C:\Users\STUDENT2\Desktop\KatmanliHepsi\2KatmanliProje\2KatmanliProje\obj\Debug\2KatmanliProje.csproj.SuggestedBindingRedirects.cache
+C:\Users\STUDENT2\Desktop\KatmanliHepsi\2KatmanliProje\2KatmanliProje\obj\Debug\_2KatmanliProje.Position.resources
+C:\Users\STUDENT2\Desktop\KatmanliHepsi\2KatmanliProje\2KatmanliProje\obj\Debug\_2KatmanliProje.Properties.Resources.resources
+C:\Users\STUDENT2\Desktop\KatmanliHepsi\2KatmanliProje\2KatmanliProje\obj\Debug\_2KatmanliProje.Worker.resources
+C:\Users\STUDENT2\Desktop\KatmanliHepsi\2KatmanliProje\2KatmanliProje\obj\Debug\2KatmanliProje.csproj.GenerateResource.cache
+C:\Users\STUDENT2\Desktop\KatmanliHepsi\2KatmanliProje\2KatmanliProje\obj\Debug\2KatmanliProje.csproj.CoreCompileInputs.cache
+C:\Users\STUDENT2\Desktop\KatmanliHepsi\2KatmanliProje\2KatmanliProje\obj\Debug\2KatmanliProje.csproj.CopyComplete
+C:\Users\STUDENT2\Desktop\KatmanliHepsi\2KatmanliProje\2KatmanliProje\obj\Debug\2KatmanliProje.exe
+C:\Users\STUDENT2\Desktop\KatmanliHepsi\2KatmanliProje\2KatmanliProje\obj\Debug\2KatmanliProje.pdb
+C:\Users\STUDENT2\Desktop\KatmanliHepsi\2KatmanliProje\2KatmanliProje\obj\Debug\_2KatmanliProje.Department.resources
+C:\Users\STUDENT2\Desktop\KatmanliHepsi\2KatmanliProje\2KatmanliProje\obj\Debug\_2KatmanliProje.Company.resources
+C:\Users\hvdem\Desktop\21 Nisan\KatmanliHepsi\KatmanliHepsi\2KatmanliProje\2KatmanliProje\obj\Debug\2KatmanliProje.csproj.AssemblyReference.cache
+C:\Users\hvdem\Desktop\21 Nisan\KatmanliHepsi\KatmanliHepsi\2KatmanliProje\2KatmanliProje\obj\Debug\2KatmanliProje.csproj.SuggestedBindingRedirects.cache
+C:\Users\hvdem\Desktop\21 Nisan\KatmanliHepsi\KatmanliHepsi\2KatmanliProje\2KatmanliProje\obj\Debug\_2KatmanliProje.Company.resources
+C:\Users\hvdem\Desktop\21 Nisan\KatmanliHepsi\KatmanliHepsi\2KatmanliProje\2KatmanliProje\obj\Debug\_2KatmanliProje.Department.resources
+C:\Users\hvdem\Desktop\21 Nisan\KatmanliHepsi\KatmanliHepsi\2KatmanliProje\2KatmanliProje\obj\Debug\_2KatmanliProje.Position.resources
+C:\Users\hvdem\Desktop\21 Nisan\KatmanliHepsi\KatmanliHepsi\2KatmanliProje\2KatmanliProje\obj\Debug\_2KatmanliProje.Properties.Resources.resources
+C:\Users\hvdem\Desktop\21 Nisan\KatmanliHepsi\KatmanliHepsi\2KatmanliProje\2KatmanliProje\obj\Debug\_2KatmanliProje.Worker.resources
+C:\Users\hvdem\Desktop\21 Nisan\KatmanliHepsi\KatmanliHepsi\2KatmanliProje\2KatmanliProje\obj\Debug\2KatmanliProje.csproj.GenerateResource.cache
+C:\Users\hvdem\Desktop\21 Nisan\KatmanliHepsi\KatmanliHepsi\2KatmanliProje\2KatmanliProje\obj\Debug\2KatmanliProje.csproj.CoreCompileInputs.cache
+C:\Users\hvdem\Desktop\21 Nisan\KatmanliHepsi\KatmanliHepsi\2KatmanliProje\2KatmanliProje\obj\Debug\2KatmanliProje.exe
+C:\Users\hvdem\Desktop\21 Nisan\KatmanliHepsi\KatmanliHepsi\2KatmanliProje\2KatmanliProje\obj\Debug\2KatmanliProje.pdb
+C:\Users\hvdem\Desktop\21 Nisan\KatmanliHepsi\KatmanliHepsi\2KatmanliProje\2KatmanliProje\bin\Debug\2KatmanliProje.exe.config
+C:\Users\hvdem\Desktop\21 Nisan\KatmanliHepsi\KatmanliHepsi\2KatmanliProje\2KatmanliProje\bin\Debug\2KatmanliProje.exe
+C:\Users\hvdem\Desktop\21 Nisan\KatmanliHepsi\KatmanliHepsi\2KatmanliProje\2KatmanliProje\bin\Debug\2KatmanliProje.pdb
+C:\Users\hvdem\Desktop\21 Nisan\KatmanliHepsi\KatmanliHepsi\2KatmanliProje\2KatmanliProje\bin\Debug\IkORM.dll
+C:\Users\hvdem\Desktop\21 Nisan\KatmanliHepsi\KatmanliHepsi\2KatmanliProje\2KatmanliProje\bin\Debug\IkORM.pdb
+C:\Users\hvdem\Desktop\21 Nisan\KatmanliHepsi\KatmanliHepsi\2KatmanliProje\2KatmanliProje\obj\Debug\2KatmanliProje.csproj.CopyComplete
+C:\Users\STUDENT2\Desktop\Tamamla\Tamamla\N Katmanlı(2) Proje\2KatmanliProje\2KatmanliProje\bin\Debug\2KatmanliProje.exe.config
+C:\Users\STUDENT2\Desktop\Tamamla\Tamamla\N Katmanlı(2) Proje\2KatmanliProje\2KatmanliProje\bin\Debug\2KatmanliProje.exe
+C:\Users\STUDENT2\Desktop\Tamamla\Tamamla\N Katmanlı(2) Proje\2KatmanliProje\2KatmanliProje\bin\Debug\2KatmanliProje.pdb
+C:\Users\STUDENT2\Desktop\Tamamla\Tamamla\N Katmanlı(2) Proje\2KatmanliProje\2KatmanliProje\bin\Debug\IkORM.dll
+C:\Users\STUDENT2\Desktop\Tamamla\Tamamla\N Katmanlı(2) Proje\2KatmanliProje\2KatmanliProje\bin\Debug\IkORM.pdb
+C:\Users\STUDENT2\Desktop\Tamamla\Tamamla\N Katmanlı(2) Proje\2KatmanliProje\2KatmanliProje\obj\Debug\2KatmanliProje.csproj.AssemblyReference.cache
+C:\Users\STUDENT2\Desktop\Tamamla\Tamamla\N Katmanlı(2) Proje\2KatmanliProje\2KatmanliProje\obj\Debug\2KatmanliProje.csproj.SuggestedBindingRedirects.cache
+C:\Users\STUDENT2\Desktop\Tamamla\Tamamla\N Katmanlı(2) Proje\2KatmanliProje\2KatmanliProje\obj\Debug\_2KatmanliProje.Company.resources
+C:\Users\STUDENT2\Desktop\Tamamla\Tamamla\N Katmanlı(2) Proje\2KatmanliProje\2KatmanliProje\obj\Debug\_2KatmanliProje.Department.resources
+C:\Users\STUDENT2\Desktop\Tamamla\Tamamla\N Katmanlı(2) Proje\2KatmanliProje\2KatmanliProje\obj\Debug\_2KatmanliProje.Position.resources
+C:\Users\STUDENT2\Desktop\Tamamla\Tamamla\N Katmanlı(2) Proje\2KatmanliProje\2KatmanliProje\obj\Debug\_2KatmanliProje.Properties.Resources.resources
+C:\Users\STUDENT2\Desktop\Tamamla\Tamamla\N Katmanlı(2) Proje\2KatmanliProje\2KatmanliProje\obj\Debug\_2KatmanliProje.Worker.resources
+C:\Users\STUDENT2\Desktop\Tamamla\Tamamla\N Katmanlı(2) Proje\2KatmanliProje\2KatmanliProje\obj\Debug\2KatmanliProje.csproj.GenerateResource.cache
+C:\Users\STUDENT2\Desktop\Tamamla\Tamamla\N Katmanlı(2) Proje\2KatmanliProje\2KatmanliProje\obj\Debug\2KatmanliProje.csproj.CoreCompileInputs.cache
+C:\Users\STUDENT2\Desktop\Tamamla\Tamamla\N Katmanlı(2) Proje\2KatmanliProje\2KatmanliProje\obj\Debug\2KatmanliProje.csproj.CopyComplete
+C:\Users\STUDENT2\Desktop\Tamamla\Tamamla\N Katmanlı(2) Proje\2KatmanliProje\2KatmanliProje\obj\Debug\2KatmanliProje.exe
+C:\Users\STUDENT2\Desktop\Tamamla\Tamamla\N Katmanlı(2) Proje\2KatmanliProje\2KatmanliProje\obj\Debug\2KatmanliProje.pdb
+C:\Users\STUDENT2\Desktop\N Katmanlı(2) Proje\2KatmanliProje\2KatmanliProje\bin\Debug\2KatmanliProje.exe.config
+C:\Users\STUDENT2\Desktop\N Katmanlı(2) Proje\2KatmanliProje\2KatmanliProje\bin\Debug\2KatmanliProje.exe
+C:\Users\STUDENT2\Desktop\N Katmanlı(2) Proje\2KatmanliProje\2KatmanliProje\bin\Debug\2KatmanliProje.pdb
+C:\Users\STUDENT2\Desktop\N Katmanlı(2) Proje\2KatmanliProje\2KatmanliProje\bin\Debug\IkORM.dll
+C:\Users\STUDENT2\Desktop\N Katmanlı(2) Proje\2KatmanliProje\2KatmanliProje\bin\Debug\IkORM.pdb
+C:\Users\STUDENT2\Desktop\N Katmanlı(2) Proje\2KatmanliProje\2KatmanliProje\obj\Debug\2KatmanliProje.csproj.AssemblyReference.cache
+C:\Users\STUDENT2\Desktop\N Katmanlı(2) Proje\2KatmanliProje\2KatmanliProje\obj\Debug\2KatmanliProje.csproj.SuggestedBindingRedirects.cache
+C:\Users\STUDENT2\Desktop\N Katmanlı(2) Proje\2KatmanliProje\2KatmanliProje\obj\Debug\_2KatmanliProje.Company.resources
+C:\Users\STUDENT2\Desktop\N Katmanlı(2) Proje\2KatmanliProje\2KatmanliProje\obj\Debug\_2KatmanliProje.Department.resources
+C:\Users\STUDENT2\Desktop\N Katmanlı(2) Proje\2KatmanliProje\2KatmanliProje\obj\Debug\_2KatmanliProje.Position.resources
+C:\Users\STUDENT2\Desktop\N Katmanlı(2) Proje\2KatmanliProje\2KatmanliProje\obj\Debug\_2KatmanliProje.Properties.Resources.resources
+C:\Users\STUDENT2\Desktop\N Katmanlı(2) Proje\2KatmanliProje\2KatmanliProje\obj\Debug\_2KatmanliProje.Worker.resources
+C:\Users\STUDENT2\Desktop\N Katmanlı(2) Proje\2KatmanliProje\2KatmanliProje\obj\Debug\2KatmanliProje.csproj.GenerateResource.cache
+C:\Users\STUDENT2\Desktop\N Katmanlı(2) Proje\2KatmanliProje\2KatmanliProje\obj\Debug\2KatmanliProje.csproj.CoreCompileInputs.cache
+C:\Users\STUDENT2\Desktop\N Katmanlı(2) Proje\2KatmanliProje\2KatmanliProje\obj\Debug\2KatmanliProje.csproj.CopyComplete
+C:\Users\STUDENT2\Desktop\N Katmanlı(2) Proje\2KatmanliProje\2KatmanliProje\obj\Debug\2KatmanliProje.exe
+C:\Users\STUDENT2\Desktop\N Katmanlı(2) Proje\2KatmanliProje\2KatmanliProje\obj\Debug\2KatmanliProje.pdb
